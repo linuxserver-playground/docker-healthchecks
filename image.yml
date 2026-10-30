@@ -13,6 +13,9 @@ upstream:
   notes:
     type: github_release
     repo: healthchecks/healthchecks
+  sponsor:
+  - name: GitHub Sponsors
+    url: https://github.com/sponsors/healthchecks
 
 release:
   branch: master
