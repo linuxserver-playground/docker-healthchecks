@@ -86,7 +86,7 @@ mysqlclient             2.3.0             python
 ncurses-terminfo-base   6.6_p20260516-r0  apk                              
 netcat-openbsd          1.234.1-r0        apk                              
 nghttp2-libs            1.70.0-r0         apk                              
-oauthlib                4.0.0             python                           
+oauthlib                4.0.1             python                           
 oncalendar              1.1               python                           
 oniguruma               6.9.10-r0         apk                              
 packaging               26.2              python                           
@@ -126,7 +126,7 @@ setuptools              70.3.0            python
 shadow                  4.18.0-r1         apk                              
 skalibs-libs            2.15.0.0-r0       apk                              
 sqlite-libs             3.53.4-r0         apk                              
-sqlparse                0.6.0             python                           
+sqlparse                0.6.1             python                           
 ssl_client              1.37.0-r31        apk                              
 statsd                  4.0.1             python                           
 tomli                   2.4.1             python                           
